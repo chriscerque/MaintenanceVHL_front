@@ -1,0 +1,96 @@
+.tutu {
+    background-color: aquamarine;
+}
+
+html,
+body,
+#map {
+    min-height: 100vh;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    padding: 60px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 30px;
+}
+
+#footer {
+    position: fixed;
+    padding: 10px 10px 0px 10px;
+    bottom: 0;
+    width: 100%;
+    /* Height of the footer*/
+    height: 40px;
+    background: grey;
+}
+
+/*.order-table {*/
+/*    border-collapse: collapse;*/
+/*}*/
+
+/*.order-table-header {*/
+/*    text-align: center;*/
+/*    background: none repeat scroll 0 0 #E5E5E5;*/
+/*    border-bottom: 1px solid #BBBBBB;*/
+/*    padding: 16px;*/
+/*    border-right-style: double;*/
+/*    border-left-style: double;*/
+/*}*/
+
+/*.order-table-odd-row {*/
+/*    text-align: center;*/
+/*    background: none repeat scroll 0 0 #FFFFFFF;*/
+/*    border-top: 1px solid #BBBBBB;*/
+/*}*/
+
+/*.order-table-even-row {*/
+/*    text-align: center;*/
+/*    background: none repeat scroll 0 0 #F9F9F9;*/
+/*    border-top: 1px solid #BBBBBB;*/
+
+/*}*/
+
+/*.order-table-column {*/
+/*    border-right-style: double;*/
+/*    border-left-style: double;*/
+/*}*/
+
+.dino {
+    background-image: url("#{resource['images:dino.png']}");
+    background-size: contain;
+    height: 25px !important;
+    width: 25px !important;
+}
+
+.dino-crisis-2 {
+    background: url("#{resource['images:dino-crisis-2.png']}");
+    background-size: contain;
+    height: 25px !important;
+    width: 25px !important;
+}
+
+.dino-crisis-2-dino-stalker {
+    background: url("#{resource['images:dino-crisis-2-dino-stalker.png']}");
+    background-size: contain;
+    height: 25px !important;
+    width: 25px !important;
+}
+
+.dino-crisis-2-dino-stalkerC {
+    background: url("#{resource['images:dino-crisis-2-dino-stalkerC.png']}");
+    background-size: contain;
+    height: 25px !important;
+    width: 25px !important;
+}
+
+.logo-jurassic-park {
+    background: url("#{resource['images:logo-jurassic-park.png']}");
+    background-size: contain;
+    height: 25px !important;
+    width: 25px !important;
+}

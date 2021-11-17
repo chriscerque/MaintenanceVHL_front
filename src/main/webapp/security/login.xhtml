@@ -1,0 +1,35 @@
+<ui:composition xmlns="http://www.w3.org/1999/xhtml"
+                xmlns:ui="http://java.sun.com/jsf/facelets"
+                xmlns:h="http://java.sun.com/jsf/html"
+                xmlns:p="http://primefaces.org/ui"
+                template="/WEB-INF/templates/template.xhtml">
+
+    <ui:define name="titre">Connexion</ui:define>
+
+    <ui:define name="page-content">
+
+        <h:form>
+
+            <p:fieldset legend="Connexion">
+
+                <p:panelGrid columns="2">
+
+                    <p:outputLabel for="login" value="Login:"/>
+                    <p:inputText id="login" value="#{loginBean.login}"/>
+
+                    <p:outputLabel for="password" value="Password:"/>
+                    <p:inputText id="password" value="#{loginBean.password}"/>
+
+                    <p:commandButton value="Valider" styleClass="ui-button-primary"
+                                     actionListener="#{loginBean.valider}"
+                                     update="@all"/>
+
+                </p:panelGrid>
+
+            </p:fieldset>
+
+        </h:form>
+
+    </ui:define>
+
+</ui:composition>
