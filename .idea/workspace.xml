@@ -10,9 +10,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ea094df-206f-4e87-8784-dc2a64fd4165" name="Changes" comment="toto">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9ea094df-206f-4e87-8784-dc2a64fd4165" name="Changes" comment="toto" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -196,7 +194,7 @@
       <workItem from="1637046636577" duration="5083000" />
       <workItem from="1637065409383" duration="5014000" />
       <workItem from="1637076183242" duration="2042000" />
-      <workItem from="1637154651657" duration="3820000" />
+      <workItem from="1637154651657" duration="4285000" />
     </task>
     <task id="LOCAL-00001" summary="toto">
       <created>1637156753532</created>
@@ -237,7 +235,34 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
           </value>
         </entry>
       </map>
