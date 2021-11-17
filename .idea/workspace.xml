@@ -10,7 +10,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ea094df-206f-4e87-8784-dc2a64fd4165" name="Changes" comment="toto" />
+    <list default="true" id="9ea094df-206f-4e87-8784-dc2a64fd4165" name="Changes" comment="toto">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +72,6 @@
     <property name="DatabaseDriversLRU" value="postgresql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="format.on.save" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/example/maintenancevhl_front/model/entities" />
@@ -195,7 +196,7 @@
       <workItem from="1637046636577" duration="5083000" />
       <workItem from="1637065409383" duration="5014000" />
       <workItem from="1637076183242" duration="2042000" />
-      <workItem from="1637154651657" duration="2942000" />
+      <workItem from="1637154651657" duration="3820000" />
     </task>
     <task id="LOCAL-00001" summary="toto">
       <created>1637156753532</created>
@@ -243,6 +244,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
